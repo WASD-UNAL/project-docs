@@ -1,11 +1,10 @@
-### Alessandro Garzon Melo ### 
-Cada integrante debe escribir un apartado independiente, identificado claramente con su nombre. En ese apartado debe responder, de forma breve pero concreta:
 
-Qué tipo de rol le gustaría desempeñar dentro de un equipo de software (por ejemplo: quien organiza y facilita, quien profundiza en arquitectura y diseño, quien se enfoca en pruebas y calidad, quien documenta y comunica con el “cliente”, etc.).
+# Alessandro Garzon Melo
+1. El rol que quiero desempeñar
+En este proyecto me gustaría desempeñarme en el rol de enfocarme en las pruebas, para determinar si el software que estamos creando es completamente funcional y se atiene a el ciclo de trabajo que estemos desempeñando a medida que avanzamos con el proyecto
 
-Qué fortalezas personales cree que ya tiene hoy para aportar a un equipo (pueden ser técnicas o de trabajo en equipo).
+2. Mis fortalezas actuales
+Tengo la capacidad de comunicar acertivamente las tareas y complicaciones que, en un futuro, podamos estar enfrentando. También tengo un buen manejo de herramientas de codigo generativo, sin perturbar el indice de aprendizaje, lo cual nos permite avanzar en el mundo laboral.
 
-Qué aspectos considera que debe fortalecer o mejorar para ser un buen integrante de equipo (por ejemplo: comunicación, organización, manejo del tiempo, escuchar a otros, pedir ayuda, dar feedback, etc.).
-
-Debe quedar muy claro qué parte escribió cada persona (Deben usar su nombre como título de sección).
-
+3. Aspectos por mejorar
+Siento que en terminos tecnicos debo mejorar, puesto que por el camino de la carrera he estado algo de tiempo sin programar y/o generar codigo y puede que esté un poco oxidado en los fundamentos que sean necesarios para desarrollar este proyecto.
